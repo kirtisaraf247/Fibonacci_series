@@ -1,3 +1,3 @@
 # Fibonacci_series
 
-Here are codes for Fibonacci Series by RECURSION as well as by ITERATAION.
+Here are codes for Fibonacci Series by RECURSION as well as by ITERATAION in Python Language.
